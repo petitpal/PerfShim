@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31815.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerfShim", "PerfShim\PerfShim.csproj", "{A75FAB66-1160-4812-8EF9-2872E5EB5E6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{228EC7F3-2196-4172-8B54-6895C9972E55}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75FAB66-1160-4812-8EF9-2872E5EB5E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75FAB66-1160-4812-8EF9-2872E5EB5E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75FAB66-1160-4812-8EF9-2872E5EB5E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75FAB66-1160-4812-8EF9-2872E5EB5E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2F5298-98A6-468A-9216-9BB3D1076F35}
+	EndGlobalSection
+EndGlobal
